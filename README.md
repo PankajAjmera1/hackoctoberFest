@@ -2,6 +2,8 @@
 
 ![alt text](image.png)
 
+![alt text](image-1.png)
+
 **AI-powered open-source contribution finder** that helps developers discover and contribute to open-source projects based on their GitHub profile and tech stack!**AI-powered open-source contribution finder** - Find the perfect open-source projects to contribute to based on your GitHub profile and tech stack!
 
 
