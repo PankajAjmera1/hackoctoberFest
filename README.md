@@ -1,5 +1,7 @@
 # 🚀 Open Source Buddy# 🚀 Open Source Buddy
 
+Live Link --> https://hackoctober-fest.vercel.app/
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
